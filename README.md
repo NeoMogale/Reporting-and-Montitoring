@@ -9,12 +9,18 @@ This Power BI report provides insights into project savings, client performance,
 ### Using this Power BI Report
 
 1. **Download and Install Power BI**:
-   - Make sure you have Power BI Desktop installed on your computer.
-   - Alternatively, you can use Power BI on the Power BI Service online.
+   - Download and install Power BI.
+   - Use the Power BI on Power BI Services.
+   - Keep in mind that each selection will filter across the page an provide insights.
+   - When you hover on each visual it provides the details about each visual based upon the data used in the excel spreedsheet.
 
 2. **Understanding the Report**:
    - Each visual can be interacted with; hovering over a visual will provide detailed insights based on the underlying dataset.
    - Slicers are implemented across pages, allowing users to filter data based on specific criteria, enhancing analytical capabilities.
+   - Go to High-level Metric as it provides a summation of each page for: Client and Project Monitoring.
+  
+   ![INSERT1](https://github.com/user-attachments/assets/66c7c274-8a13-4a2e-9e03-e4509dfa23c3)
+
 
 ### Summary View
 
