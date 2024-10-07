@@ -62,61 +62,58 @@ This page allows stakeholders to quickly assess overall performance and trends.
 This report is designed to provide business stakeholders with comprehensive insights into project performance and client savings, helping to inform strategic decision-making. By interacting with the visuals and utilizing the filters, users can derive actionable insights to drive improvements in project management and client engagement.
 
 ### HAVARD REFERENCE:
-1.	Microsoft. 2023. Power BI. https://powerbi.microsoft.com/en-us/downloads/. Date of access: 21 Oct. 2023
-
-2.	Coetzee,. M. 2023. 12 October Project 5 Introduction. [Youtube Video https://youtu.be/HrPipzMA5gk .  Date of access: 21 Oct. 2023
-
-3.	Muller,. J. 2023. 12 October CMPG323 weekly virtual class Data Visualisation. https://youtu.be/gv58fGGgRQs. Date of access: 21 Oct. 2023
-
-4.	Microsoft. 2023. What is the Power BI service? https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-service-overview. Date of access: 20 Oct. 2023
-
-5.	Microsoft. 2023. Change settings for Power BI reports https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-report-settings?tabs=powerbi-desktop. Date of access: 21 Oct. 2023
 
 
-6.	Microsoft. 2023. Connecting to datasets in the Power BI service from Desktop. https://powerbi.microsoft.com/it-ch/blog/connecting-to-datasets-in-the-power-bi-service-fromdesktop/#:~:text=Navigate%20to%20File%20%3E%20Options%20and,service%20option%20under%20Online%20Services. Date of access: 21 Oct. 2023
+1. . Microsoft. 2024. Power BI. https://powerbi.microsoft.com/en-us/downloads/. Date of access: 03 Oct. 2024
 
-7.	Microsoft. 2023. Data protection in Power BI. https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-data-protection-overview. Date of access: 21 Oct. 2023
+2. Coetzee,. M. 2024. 12 October Project 5 Introduction. [Youtube Video https://youtu.be/HrPipzMA5gk . Date of access: 02 Oct. 2024
 
+3. Muller,. J. 2024. 12 October CMPG323 weekly virtual class Data Visualisation. https://youtu.be/gv58fGGgRQs. Date of access: 30 Sept. 2024
 
-8.	Microsoft. 2023. Tips and tricks for Power BI map visualizations. https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-map-tips-and-tricks. Date of access: 21 Oct. 2023
+4. Microsoft. 2024. What is the Power BI service? https://learn.microsoft.com/en-us/power-bi/fundamentals/power-bi-service-overview. Date of access: 01 Oct. 2024
 
-9.	Microsoft. 2023. Data clean up and merge duplicate data. https://community.fabric.microsoft.com/t5/Desktop/Data-clean-up-and-merge-duplicate-data/td-p/2943655. Date of access: 23 Oct. 2023
+5. Microsoft. 2024. Change settings for Power BI reports https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-report-settings?tabs=powerbi-desktop. Date of access: 02 Oct. 2024
 
-10.	Microsoft. 2023. Data types in Power BI Desktop. https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-data-types. Date of access: 23 Oct. 2023
+6. Microsoft. 2024. Connecting to datasets in the Power BI service from Desktop. https://powerbi.microsoft.com/it-ch/blog/connecting-to-datasets-in-the-power-bi-service-fromdesktop/#:~:text=Navigate%20to%20File%20%3E%20Options%20and,service%20option%20under%20Online%20Services. Date of access: 05 Oct. 2024
 
-11.	Microsoft. 2023. Tutorial: Create calculated columns in Power BI Desktop. https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-calculated-columns. Date of access: 23 Oct. 2023
-12.	Microsoft. 2023. Create key influencers visualizations. https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers?tabs=powerbi-desktop. Date of access: 24 Oct. 2023
+7. Microsoft. 2024. Data protection in Power BI. https://learn.microsoft.com/en-us/power-bi/enterprise/service-security-data-protection-overview. Date of access: 04 Oct. 2024
 
-13.	Microsoft. 2023. Tables in Power BI reports and dashboards. https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-tables?tabs=powerbi-desktop. Date of access: 24 Oct. 2023
+8. Microsoft. 2024. Tips and tricks for Power BI map visualizations. https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-map-tips-and-tricks. Date of access: 30 Sept. 2024
 
+9. Microsoft. 2024. Data clean up and merge duplicate data. https://community.fabric.microsoft.com/t5/Desktop/Data-clean-up-and-merge-duplicate-data/td-p/2943655. Date of access: 01 Oct. 2024
 
-14.	Microsoft. 2023. Create matrix visualizations in Power BI. https://learn.microsoft.com/en-us/power-bi/visuals/desktop-matrix-visual. Date of access: 25 Oct. 2023
+10. Microsoft. 2024. Data types in Power BI Desktop. https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-data-types. Date of access: 29 Sept. 2024
 
-15.	Microsoft. 2023. Apply insights in Power BI to explain fluctuations in visuals. https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-insights. Date of access 25 Oct. 2023
+11. Microsoft. 2024. Tutorial: Create calculated columns in Power BI Desktop. https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-calculated-columns. Date of access: 05 Oct. 2024
 
-16.	Microsoft. 2023. Filters on multiple pages. https://community.fabric.microsoft.com/t5/Desktop/Filters-on-multiple-pages/m-p/347991. Date of access: 25 Oct. 2023
+12. Microsoft. 2024. Create key influencers visualizations. https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers?tabs=powerbi-desktop. Date of access: 02 Oct. 2024
 
+13. Microsoft. 2024. Tables in Power BI reports and dashboards. https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-tables?tabs=powerbi-desktop. Date of access: 06 Oct. 2024
 
-17.	Microsoft. 2023. Describe the capabilities of Microsoft Power BI. https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/ . 20 Oct. 2023
+14. Microsoft. 2024. Create matrix visualizations in Power BI. https://learn.microsoft.com/en-us/power-bi/visuals/desktop-matrix-visual. Date of access: 01 Oct. 2024
 
-18.	Microsoft. 2023. Model data with Power BI. https://docs.microsoft.com/en-us/learn/paths/model-power-bi/. 20 Oct. 2023
+15. Microsoft. 2024. Apply insights in Power BI to explain fluctuations in visuals. https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-insights. Date of access 04 Oct. 2024
 
+16. Microsoft. 2024. Filters on multiple pages. https://community.fabric.microsoft.com/t5/Desktop/Filters-on-multiple-pages/m-p/347991. Date of access: 06 Oct. 2024
 
-19.	Microsoft. 2023. https://spreadsheeto.com/power-bi-best-practices/#:~:text=1%20Put%20first%20things%20first.%20This%20one%20is,with%20numeric%20data%2C%20use%20integers%20instead%20of%20strings. Date of access: 20 Oct. 2023
+17. Microsoft. 2024. Describe the capabilities of Microsoft Power BI. https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/. 05 Oct. 2024
 
-20.	Stratvert,. K. 2023. How to use Microsoft Power BI - Tutorial for Beginners. [Youtube Video]. https://youtu.be/TmhQCQr_DCA. Date of access: 20 Oct. 2023
+18. Microsoft. 2024. Model data with Power BI. https://docs.microsoft.com/en-us/learn/paths/model-power-bi/. 30 Sept. 2024
 
-21.	Microsoft. 2023. What is data storytelling? https://powerbi.microsoft.com/en-us/data-storytelling/. Date of access: 20 Oct. 2023
+19. Microsoft. 2024. https://spreadsheeto.com/power-bi-best-practices/#:~:text=1%20Put%20first%20things%20first.%20This%20one%20is,with%20numeric%20data%2C%20use%20integers%20instead%20of%20strings. Date of access: 06 Oct. 2024
 
-22.	MyOnlineTrainingHub. 2023. How to Build Power BI Reports from Start to Finish. [Youtube Video]. https://youtu.be/Z2t7l8b1uWU. Date of access: 20 Oct. 2023
+20. Stratvert,. K. 2024. How to use Microsoft Power BI - Tutorial for Beginners. [Youtube Video]. https://youtu.be/TmhQCQr_DCA. Date of access: 29 Sept. 2024
 
-23.	LearnitTraining. 2023. Power BI Full Course Tutorial (8+ Hours). [Youtube Video]. https://youtu.be/e6QD8lP-m6E. Date of access: 20 Oct. 2023
+21. Microsoft. 2024. What is data storytelling? https://powerbi.microsoft.com/en-us/data-storytelling/. Date of access: 04 Oct. 2024
 
-24.	Biswal,. A. 2023. What is Power BI?: Architecture, and Features. Explainedhttps://www.simplilearn.com/tutorials/power-bi-tutorial/what-is-power-bi. Date of access: 20 Oct. 2023
+22. MyOnlineTrainingHub. 2024. How to Build Power BI Reports from Start to Finish. [Youtube Video]. https://youtu.be/Z2t7l8b1uWU. Date of access: 05 Oct. 2024
 
-25.	Power BI. 2023. Build your first report. https://app.powerbi.com/home?experience=power-bi. Date of access: 22 Oct. 2023
+23. LearnitTraining. 2024. Power BI Full Course Tutorial (8+ Hours). [Youtube Video]. https://youtu.be/e6QD8lP-m6E. Date of access: 01 Oct. 2024
 
-26.	Stratvert,. K. 2021. How to Build Excel Interactive Dashboards. [Youtube Video]. https://youtu.be/MTlQvyNQ3PM. Date of access: 22 Oct. 2023
+24. Biswal,. A. 2024. What is Power BI?: Architecture, and Features. Explainedhttps://www.simplilearn.com/tutorials/power-bi-tutorial/what-is-power-bi. Date of access: 29 Sept. 2024
 
-27.	Kenji Explains. 2023. Build the ULTIMATE Excel Dashboard from Scratch. [Youtube Video]. https://youtu.be/5eLtjO2Hfs0. Date of access 22 Oct. 2023
+25. Power BI. 2024. Build your first report. https://app.powerbi.com/home?experience=power-bi. Date of access: 02 Oct. 2024
 
+26. Stratvert,. K. 2021. How to Build Excel Interactive Dashboards. [Youtube Video]. https://youtu.be/MTlQvyNQ3PM. Date of access: 30 Sept. 2024
+
+27. Kenji Explains. 2024. Build the ULTIMATE Excel Dashboard from Scratch. [Youtube Video]. https://youtu.be/5eLtjO2Hfs0. Date of access 03 Oct. 2024
