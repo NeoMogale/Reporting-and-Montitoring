@@ -117,3 +117,7 @@ This report is designed to provide business stakeholders with comprehensive insi
 26. Stratvert,. K. 2021. How to Build Excel Interactive Dashboards. [Youtube Video]. https://youtu.be/MTlQvyNQ3PM. Date of access: 30 Sept. 2024
 
 27. Kenji Explains. 2024. Build the ULTIMATE Excel Dashboard from Scratch. [Youtube Video]. https://youtu.be/5eLtjO2Hfs0. Date of access 03 Oct. 2024
+
+Link to Power BI Online Service :
+
+https://app.powerbi.com/links/JIiirPX8Yo?ctid=b14d86f1-83ba-4b13-a702-b5c0231b9337&pbi_source=linkShare&bookmarkGuid=64a9640b-b94b-4669-9fc6-467e0704e2b0
