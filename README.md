@@ -1,5 +1,3 @@
-# CMPG323_PROJECT_5_35407972
-
 ## Reporting & Monitoring
 
 ### NWU TECH TRENDS Benefit Realisation - Project and Client Monitoring
